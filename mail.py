@@ -1,0 +1,2 @@
+mailbox = ""
+password = ""
