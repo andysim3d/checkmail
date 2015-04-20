@@ -1,3 +1,2 @@
 mailbox = ""
 password = ""
-path = ""
