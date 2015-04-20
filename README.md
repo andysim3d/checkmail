@@ -1,5 +1,5 @@
 # checkmail
-This is a tiny for Mac OS X. <br/>
+This is a tiny script for Mac OS X only. <br/>
 <p>
 To use this scrpit, please make sure you have pync .<br/>
 
